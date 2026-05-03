@@ -1,25 +1,11 @@
 # Cloud & DevOps Portfolio
 
-A collection of my hands-on projects focused on AWS, Terraform, and infrastructure automation.
+## Projects
 
----
+### AWS Infrastructure Automation with Terraform  
+Modular AWS infrastructure using Terraform (VPC, EC2, ALB, RDS, IAM).
+https://github.com/kierandp/terraform-aws-infra
 
-## 🚀 Projects
-
-### 🔹 Terraform AWS Multi-Environment Infrastructure
-Modular AWS infrastructure built with Terraform across dev, staging, and prod environments.
-
-Includes:
-- VPC, ALB, Auto Scaling EC2, RDS, S3
-- CI/CD automation with GitHub Actions
-
-🔗 https://github.com/kierandp/terraform-aws-multi-env-infra
-
----
-
-### 🔹 [Your Second Project Name]
-Short description of your second project.
-
-🔗 https://github.com/kierandp/YOUR-SECOND-REPO
-
----
+### Terraform AWS Multi-Environment Infrastructure  
+Extended to support dev, staging, and prod with reusable modules and CI/CD.  
+https://github.com/kierandp/terraform-aws-multi-env-infra
